@@ -1,0 +1,3 @@
+import gpiod
+
+gpiod.is_gpiochip_device("/dev/gpiochip0")
